@@ -211,8 +211,8 @@
             </div>
             <div class="contact-item">
               <div class="contact-icon">📱</div>
-              <h3>Phone</h3>
-              <a href="tel:+9779821671720">{{ portfolio.contact.phone }}</a>
+              <h3>linkedin</h3>
+              <a href="https://www.linkedin.com/in/milan-belal-8a522b352">{{ portfolio.contact.linkedin }}</a>
             </div>
             <div class="contact-item">
               <div class="contact-icon">📍</div>
@@ -241,7 +241,7 @@
             <div class="social-links">
               <a href="mailto:mohitbelal9@gmail.com" class="social-link" title="Email">📧</a>
               <a href="https://github.com/Belal172" class="social-link" title="GitHub" target="_blank">💻</a>
-              <a href="tel:+9779821671720" class="social-link" title="Phone">📱</a>
+              <a href="tel:+9779821671720" class="social-link" title="linkedin">📱</a>
             </div>
           </div>
         </div>
@@ -347,7 +347,7 @@ export default {
         ],
         contact: {
           email: "mohitbelal9@gmail.com",
-          phone: "+977 98-21671720",
+          linkedin: "https://www.linkedin.com/in/milan-belal-8a522b352/",
           location: "Dhangadhi, Nepal 10900",
           github: "github.com/Belal172"
         }
