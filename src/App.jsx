@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import profileImage from "./assets/img1.JPG";
+import profileImage from "./assets/img2.JPG";
 import ResumeSection from "./components/ResumeSection";
 
 const portfolio = {
