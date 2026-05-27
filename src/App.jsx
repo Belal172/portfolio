@@ -444,7 +444,10 @@ export default function App() {
             <div className="achievement-card">
               <div className="achievement-icon">🎓</div>
               <h3>BCA Student</h3>
-              <p>Recently Completed My Bachelor's in Computer Application</p>
+              <p>
+                Recently Completed My Graduation in Bachelors of Computer
+                Application(BCA)
+              </p>
               <span className="achievement-year">2021-2026</span>
             </div>
             <div className="achievement-card">
